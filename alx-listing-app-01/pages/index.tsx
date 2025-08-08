@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { HERO_BACKGROUND_IMAGE, PROPERTYLISTINGSAMPLE, FILTER_LABELS } from "@/constants";
+import { HERO_BACKGROUND_IMAGE, PROPERTYLISTINGSAMPLE, FILTER_LABELS } from "@/constants/index";
 import { PropertyProps } from "@/interfaces/Index";
 import Pill from "@/components/Pill"; // Import the Pill component
 import { useState } from "react";

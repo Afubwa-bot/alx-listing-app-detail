@@ -362,3 +362,16 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
     discount: ""
   }
 ];
+
+export const FILTER_LABELS = [
+  "Top Villa",
+  "Self Checkin",
+  "Discounted",
+  "Pets Allowed",
+  "Pool",
+  "Free WiFi",
+  "Free Parking",
+  "Beachfront",
+  "Mountain View",
+  "City View"
+];
