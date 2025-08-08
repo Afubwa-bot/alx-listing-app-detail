@@ -1,3 +1,6 @@
+export const API_URL="";
+export const HERO_BG = "assets/images/background_image.jpg";
+
 import { PropertyProps } from '../interfaces/Index';
 
 export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
@@ -361,17 +364,4 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
     image: "https://example.com/image20.jpg",
     discount: ""
   }
-];
-
-export const FILTER_LABELS = [
-  "Top Villa",
-  "Self Checkin",
-  "Discounted",
-  "Pets Allowed",
-  "Pool",
-  "Free WiFi",
-  "Free Parking",
-  "Beachfront",
-  "Mountain View",
-  "City View"
 ];
