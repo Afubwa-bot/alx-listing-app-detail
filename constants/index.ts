@@ -1,4 +1,4 @@
-import { PropertyProps } from '../interfaces/Index';
+import { PropertyProps } from '../interfaces';
 
 export const API_URL="";
 export const HERO_BG = "public/assets/images/background_image.jpg";

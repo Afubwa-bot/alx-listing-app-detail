@@ -1,4 +1,4 @@
-import {PropertyProps} from "@/interfaces/Index";
+import {PropertyProps} from "@/interfaces";
 
 const PropertyDetail = ({property}: {property: PropertyProps}) => {
     return (
