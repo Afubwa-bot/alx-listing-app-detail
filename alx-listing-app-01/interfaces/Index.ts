@@ -27,5 +27,14 @@ category: string[];
   };
   image: string;
   discount?: string;
+  description: string;
+  reviews: ReviewProps[];
+}
+
+export interface ReviewProps{
+  name: string;
+  avatar: string;
+  rating:number;
+  comment: string;
 }
 

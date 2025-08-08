@@ -40,5 +40,5 @@ const PropertyDetail = ({property}: {property: PropertyProps}) => {
     );
 }
 
-export default Pro
+export default PropertyDetail;
 

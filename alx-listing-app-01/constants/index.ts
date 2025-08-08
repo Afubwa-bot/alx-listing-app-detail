@@ -1,7 +1,7 @@
-export const API_URL="";
-export const HERO_BG = "assets/images/background_image.jpg";
-
 import { PropertyProps } from '../interfaces/Index';
+
+export const API_URL="";
+export const HERO_BG = "public/assets/images/background_image.jpg";
 
 export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
   {
